@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Dumbbell, Activity, MapPin, Clock, CheckCircle2, ShieldCheck, Trophy, Target, Coffee, ShoppingBag, Star, Phone, Heart, Flame, ChevronRight } from 'lucide-react';
+import { Dumbbell, Activity, MapPin, CheckCircle2, ShieldCheck, Trophy, Target, Coffee, ShoppingBag, Star, Phone, Flame, ChevronRight } from 'lucide-react';
 
 function App() {
   const fadeInUp = {
