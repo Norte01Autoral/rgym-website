@@ -181,9 +181,10 @@ function App() {
           >
             <video 
               src="/snapinsta-1790314536085_compativel.mp4" 
+              poster="/cover-foto-real.png"
               controls 
               preload="metadata"
-              className="w-full h-auto max-h-[80vh] object-cover rounded-3xl"
+              className="w-full h-auto max-h-[80vh] object-cover rounded-3xl shadow-2xl border border-rgym-gray"
             >
               Seu navegador não suporta vídeos.
             </video>
